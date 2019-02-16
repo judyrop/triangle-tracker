@@ -1,0 +1,6 @@
+.Box-model{
+border: 5px;
+width: 30%;
+length: 50%;
+float: left;
+}
