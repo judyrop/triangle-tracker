@@ -3,4 +3,10 @@ border: 5px;
 width: 30%;
 length: 50%;
 float: left;
+color: grey;
+}
+.column{
+  float: left;
+  width: 1000px;
+   padding:6px;
 }
