@@ -10,6 +10,12 @@
 * easy-to-understand
 * format
  <img src="triangle-equilateral.svg" alt="A diagram of equilateral">
+  <img src="triangle-isosceles.svg" alt="A diagram of isosceles">
+   <img src="triangle-scalene.svg" alt="A diagram of scalene">
+
+
+
+
 {You are provided with columns where you can input your values to test your triangle.you simply insert the values and click on check button and you will be able to see a dialog box that's give you back feedback. }
 
 ## Technologies Used
