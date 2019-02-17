@@ -9,9 +9,9 @@
 * in a simple
 * easy-to-understand
 * format
- <img src="triangle-equilateral.svg" alt="A diagram of equilateral">
-  <img src="triangle-isosceles.svg" alt="A diagram of isosceles">
-   <img src="triangle-scalene.svg" alt="A diagram of scalene">
+ <img src="triangle-equilateral.jpg" alt="A diagram of equilateral">
+  <img src="triangle-isosceles.jpg" alt="A diagram of isosceles">
+   <img src="triangle-scalene.jpg" alt="A diagram of scalene">
 
 
 
