@@ -9,12 +9,15 @@
 * in a simple
 * easy-to-understand
 * format
+<p>
  <img src="triangle-equilateral.jpg" alt="A diagram of equilateral">
- <p> equilateral triangle all sides are equal</p>
+  equilateral triangle all sides are equal</p>
+  <p>
   <img src="triangle-isosceles.jpg" alt="A diagram of isosceles">
-  <p> isosceles triangle two sides are equal</p>
+   isosceles triangle two sides are equal</p>
+    <p>
    <img src="triangle-scalene.jpg" alt="A diagram of scalene">
-   <p>  scalene triangle all sides are not equal</p>
+    scalene triangle all sides are not equal</p>
 
 
 
