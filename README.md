@@ -9,11 +9,12 @@ This application describes different types of triangles and determines the type 
 * in a simple
 * easy-to-understand
 * format
+#BDD
 | Behaviour                   | Input   | Output      |
 |-----------------------------|---------|-------------|
 | All sides are equal         | 5=5=5   | equilateral |
 | Two sides are equal         | 5=5!=3  | isosceles   |
-| None of the sides are equal | 3!=4!=5 | Scalene     
+| None of the sides are equal | 3!=4!=5 | Scalene     |
 You are provided with columns where you can input your values to test your triangle.you simply insert the values and click on check button and you will be able to see a dialog box that's give you back feedback.
 
 ## Technologies Used
