@@ -1,11 +1,12 @@
 .Box-model{
 border: 6px;
-width: 50%;
+width: 20%;
 length: 50%;
 background-color:lightblue;
 font-style: normal;
 font-weight: bold;
 margin: auto;
+float: none;
 }
 .column{
   float: left;
@@ -15,3 +16,7 @@ margin: auto;
   background-color: lightblue;
   margin: auto;
 }
+/* img{
+  float: left;
+margin: auto;
+} */
