@@ -1,18 +1,23 @@
 .Box-model{
-border: 8px;
+border: 6px;
 width: 30%;
 length: 50%;
-float:left;
-background-color: lightblue;
+background-color:lightblue;
 font-style: normal;
 font-weight: bold;
-
+margin: auto;
 }
 .column{
   float: left;
-  width: 1000px;
-   padding:6px;
+  width:650px;
+  padding:6px;
+  font-size: 14;
+  background-color: lightblue;
+  margin: auto;
+
+
 }
-.img{
+img{
   float: left;
+
 }
