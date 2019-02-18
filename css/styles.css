@@ -13,3 +13,6 @@ font-weight: bold;
   width: 1000px;
    padding:6px;
 }
+.img{
+  float: left;
+}
