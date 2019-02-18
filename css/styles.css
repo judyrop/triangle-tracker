@@ -3,13 +3,11 @@ border: 8px;
 width: 30%;
 length: 50%;
 float: left;
+background-color: lightblue;
+
 }
 .column{
   float: left;
   width: 1000px;
    padding:6px;
-}
-.sidebar{
-  background-color: lightblue;
-  float: left;
 }
