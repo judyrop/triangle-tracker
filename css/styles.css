@@ -1,6 +1,6 @@
 .Box-model{
 border: 6px;
-width: 30%;
+width: 50%;
 length: 50%;
 background-color:lightblue;
 font-style: normal;
@@ -9,15 +9,9 @@ margin: auto;
 }
 .column{
   float: left;
-  width:650px;
+  width:700px;
   padding:6px;
   font-size: 14;
   background-color: lightblue;
   margin: auto;
-
-
-}
-img{
-  float: left;
-
 }
